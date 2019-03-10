@@ -19,3 +19,17 @@ The standardized columns in this file that will be used for futher analysis are:
 - 'numDischarges' = some hospitals reported on the number of instances/cases/discharges per DRG code
 
 Any other columns found in this file were included because they were found in the raw files from hospitals' mastercharge sheets where there are no DRG codes.
+In general missing DRG codes of any form from the following hospitals. 
+
+- have drg descriptions but missing codes
+'330169', 
+'330204',
+'330195',
+'330119',
+'330160',
+'330399',
+'330221'
+
+- missing drg descriptions and codes
+'330019',
+'330056'
