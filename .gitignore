@@ -1,0 +1,4 @@
+*.pyc
+*.ipynb_checkpoints
+*.cpython-35.pyc
+**/sparcs_raw
