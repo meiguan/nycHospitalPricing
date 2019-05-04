@@ -4,3 +4,5 @@
 **/sparcs_raw
 **/nysHealth
 dataFiles/compiledDischargesHospitalFeaturesCensus.csv
+dataFiles/cSectionAprHospFeat.csv
+dataFiles/kneeAprHospFeat.csv
