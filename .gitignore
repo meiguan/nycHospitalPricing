@@ -1,8 +1,1 @@
-*.pyc
-*.ipynb_checkpoints
-*.cpython-35.pyc
-**/sparcs_raw
-**/nysHealth
-dataFiles/compiledDischargesHospitalFeaturesCensus.csv
-dataFiles/cSectionAprHospFeat.csv
-dataFiles/kneeAprHospFeat.csv
+dataFiles/top10AprHospFeat.csv
