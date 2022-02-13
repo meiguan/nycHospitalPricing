@@ -1,8 +1,12 @@
 # Are Healthcare Costs Predictable?
 2019
-Qinyu Goh <qg412@nyu.edu>
+
 Mei Guan <yg833@nyu.edu>
+Qinyu Goh <qg412@nyu.edu>
 Rachel Sim <rms818@nyu.edu> 
+
+> [(WIP) Urban Health - A Case of New York State](https://docs.google.com/document/d/1E-6TzyWT64FEHilkx_iuYlyBxW69mx6EEtT-9xZ68sE/edit?usp=sharing)
+
 
 ### TL;DR
 
